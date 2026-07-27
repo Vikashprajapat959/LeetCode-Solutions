@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
