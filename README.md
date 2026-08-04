@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
@@ -117,4 +118,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
+## String
+|  |
+| ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
+## Greedy
+|  |
+| ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
+## Rolling Hash
+|  |
+| ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
+## Hash Function
+|  |
+| ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 <!---LeetCode Topics End-->
