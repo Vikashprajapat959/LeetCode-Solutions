@@ -27,11 +27,11 @@ string normaliseString(string &s){
     return newstr;
 }
     bool isPalindrome(string s) {
-        string  newstr = normaliseString(s);
+        string  newStr = normaliseString(s);
         int i=0;
-        int j= newstr.length()-1;
+        int j= newStr.length()-1;
         while(i<=j){
-     if(newstr[i]!=newstr[j] ){
+     if(newStr[i]!=newStr[j] ){
         return false;
      }
      else{
