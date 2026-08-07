@@ -2,13 +2,10 @@ class Solution {
 public:
 
     int expand(string s, int left, int right) {
-
         int count = 0;
 
-        while(left >= 0 && right < s.length() && s[left] == s[right]) {
-
+        while (left >= 0 && right < s.length() && s[left] == s[right]) {
             count++;
-
             left--;
             right++;
         }
@@ -20,13 +17,13 @@ public:
 
         int ans = 0;
 
-        for(int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++) {
 
-            // Odd length
+            // Odd length palindrome
             ans += expand(s, i, i);
 
-            // Even length
-            ans += expand(s, i, i+1);
+            // Even length palindrome
+            ans += expand(s, i, i + 1);
         }
 
         return ans;
