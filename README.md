@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [1572-matrix-diagonal-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2325-decode-the-message](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2325-decode-the-message) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Greedy
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
