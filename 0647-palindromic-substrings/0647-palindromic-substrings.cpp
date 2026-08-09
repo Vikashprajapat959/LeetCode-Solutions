@@ -1,31 +1,27 @@
 class Solution {
 public:
-
-    int expand(string s, int left, int right) {
-        int count = 0;
-
-        while (left >= 0 && right < s.length() && s[left] == s[right]) {
-            count++;
-            left--;
-            right++;
-        }
-
-        return count;
+int checkPalindrome(string s,int i,int j){
+    int count = 0;
+    while(i >= 0 && j < s.length() && s[i] == s[j]){
+count++;
+i--;
+j++;
     }
+    return count;
 
+}
     int countSubstrings(string s) {
-
-        int ans = 0;
-
-        for (int i = 0; i < s.length(); i++) {
-
-            // Odd length palindrome
-            ans += expand(s, i, i);
-
-            // Even length palindrome
-            ans += expand(s, i, i + 1);
+        int count =0;
+        for(int center =0;center<s.length();center++){
+int i=center;
+int j=center;
+int oddpalindromcount = checkPalindrome(s,i,j);
+ i = center;
+ j = center+1;
+int evenpalindromcount = checkPalindrome(s,i,j);
+count = count+oddpalindromcount+evenpalindromcount;
         }
 
-        return ans;
+       return count;
     }
 };
