@@ -1,29 +1,26 @@
 class Solution {
 public:
-    int compress(vector<char>& chars) {
-      int n = chars.size();
-      int index = 0;
-        int i =0;
-        while(i<n){
-     char curr_char=chars[i];
-     int count =0;
-     //find count od duplicates
-     while(i<n && chars[i] ==curr_char){
-count++;
-i++;
-     }
-    // no do the assign work
-    chars[index] = curr_char;
+    int compress(vector<char>& s) {
+   int n = s.size();
+   int index=0;
+   int i =0;
+   while(i<n){
+char curr_char = s[i];
+int count =0;
+while(i<n && curr_char==s[i]){
+    count++;
+    i++;
+    }
+    s[index]= curr_char;
     index++;
     if(count>1){
-string  count_str = to_string(count);
-for(char &ch:count_str){
-    chars[index] = ch;
-    index++;
-
+string count_str = to_string(count);
+for(int j =0;j<count_str.length();j++){
+s[index]= count_str[j];
+index++;
 }
     }
-        }
-        return index; 
+   }
+   return index;
     }
 };
