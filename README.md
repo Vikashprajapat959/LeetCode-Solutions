@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0676-implement-magic-dictionary](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0676-implement-magic-dictionary](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0676-implement-magic-dictionary](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 ## Manacher
 |  |
 | ------- |
@@ -235,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0676-implement-magic-dictionary](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
+## Design
+|  |
+| ------- |
+| [0676-implement-magic-dictionary](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 <!---LeetCode Topics End-->
