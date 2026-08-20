@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0187-repeated-dna-sequences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0658-find-k-closest-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0415-add-strings) |
@@ -190,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 ## Stack
 |  |
@@ -219,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -227,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
