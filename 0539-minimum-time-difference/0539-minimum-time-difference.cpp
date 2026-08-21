@@ -1,30 +1,34 @@
 class Solution {
 public:
     int findMinDifference(vector<string>& timePoints) {
-        vector<int> minutes;
 
-        // HH:MM ko total minutes me convert karo
-        for (string time : timePoints) {
-            int hour = stoi(time.substr(0, 2));
-            int minute = stoi(time.substr(3, 2));
+        int n = timePoints.size();
 
-            int total = hour * 60 + minute;
-            minutes.push_back(total);
+        vector<int> minutes(n);
+
+        for(int i = 0; i < n; i++) {
+
+            string time = timePoints[i];
+
+            string hoursubstr = time.substr(0, 2);
+            string minSubstr = time.substr(3);
+
+            int hourInt = stoi(hoursubstr);
+            int minInt = stoi(minSubstr);
+
+            minutes[i] = hourInt * 60 + minInt;
         }
-
-        sort(minutes.begin(), minutes.end());
-
-        int ans = INT_MAX;
 
         
-        for (int i = 1; i < minutes.size(); i++) {
-            ans = min(ans, minutes[i] - minutes[i - 1]);
+        sort(minutes.begin(), minutes.end());
+
+        int result = INT_MAX;
+
+        for(int i = 1; i < n; i++) {
+            result = min(result, minutes[i] - minutes[i-1]);
         }
 
-       
-        int lastDiff = 1440 - minutes.back() + minutes[0];
-        ans = min(ans, lastDiff);
-
-        return ans;
+        return min(result,
+                   (24 * 60 - minutes[n-1]) + minutes[0]);
     }
 };
