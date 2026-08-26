@@ -3,11 +3,11 @@ public:
     vector<int> productExceptSelf(vector<int>& nums) {
 
         int n = nums.size();
+
         vector<int> answer(n);
 
         int prefix = 1;
 
-        // Left product
         for (int i = 0; i < n; i++) {
             answer[i] = prefix;
             prefix *= nums[i];
@@ -15,7 +15,6 @@ public:
 
         int suffix = 1;
 
-        // Right product
         for (int i = n - 1; i >= 0; i--) {
             answer[i] *= suffix;
             suffix *= nums[i];
