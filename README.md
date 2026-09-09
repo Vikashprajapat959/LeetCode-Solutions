@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
 | ------- |
