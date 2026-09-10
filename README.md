@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
+| [0983-minimum-cost-for-tickets](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1470-shuffle-the-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0983-minimum-cost-for-tickets](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 ## String
 |  |
