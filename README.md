@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1470-shuffle-the-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
