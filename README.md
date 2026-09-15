@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2325-decode-the-message](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
