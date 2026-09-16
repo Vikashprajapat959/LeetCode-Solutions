@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
