@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2325-decode-the-message](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2325-decode-the-message](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2325-decode-the-message) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Rolling Hash
 |  |
 | ------- |
