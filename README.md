@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0983-minimum-cost-for-tickets](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
