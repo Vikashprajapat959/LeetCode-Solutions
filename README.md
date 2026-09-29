@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
