@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Rolling Hash
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
