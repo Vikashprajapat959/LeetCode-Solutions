@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
