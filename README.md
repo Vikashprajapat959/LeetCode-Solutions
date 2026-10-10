@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0676-implement-magic-dictionary](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
