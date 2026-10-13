@@ -6,9 +6,15 @@ public:
             nums[i] = nums[i] * nums[i];
         }
         sort(nums.begin(),nums.end());
-        long long largehafe = accumulate(begin(nums)+n/2,end(nums),0LL);
-        long long smallhafe = accumulate(begin(nums),begin(nums)+n/2,0LL);
-        
-        return largehafe-smallhafe;
+        long long largedata = 0;
+        for(int i =n/2;i<n;i++){
+            largedata = largedata+nums[i];
+        }
+         long long smalldata = 0;
+        for(int i =0;i<n/2;i++){
+            smalldata = smalldata+nums[i];
+        }
+                return largedata-smalldata;
+
     }
 };
