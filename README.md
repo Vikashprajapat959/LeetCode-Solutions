@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0046-permutations) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0221-maximal-square) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0046-permutations) |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## Queue
 |  |
@@ -469,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1655-distribute-repeating-integers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1655-distribute-repeating-integers) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
