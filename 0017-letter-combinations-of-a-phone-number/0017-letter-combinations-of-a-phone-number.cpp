@@ -1,7 +1,8 @@
 
 class Solution {
 public:
-void solve(  unordered_map<char, string> mp,string&digits,string&output,vector<string>&ans,int i){
+void solve( unordered_map<char, string> mp,string&digits,string&output,vector<string>&ans,int i){
+//base condition
     if(i==digits.size()){
         ans.push_back(output);
         return;
@@ -11,13 +12,13 @@ void solve(  unordered_map<char, string> mp,string&digits,string&output,vector<s
     for(int j=0;j<mapedstring.size();j++){
         char ch = mapedstring[j];
         output.push_back(ch);
-        solve(mp,digits,output,ans,i+1);
+          solve(mp,digits,output,ans,i+1); //backtrak
         output.pop_back();
     }
 }
     vector<string> letterCombinations(string digits) {
-        if(digits.size()==0) return{};
-         unordered_map<char, string> mp;
+        if(digits.size() ==0) return{};
+        unordered_map<char,string>mp;
         mp['2'] = "abc";
         mp['3'] = "def";
         mp['4'] = "ghi";
@@ -29,6 +30,6 @@ void solve(  unordered_map<char, string> mp,string&digits,string&output,vector<s
         string output;
         vector<string> ans;
         solve(mp,digits,output,ans,0);
-         return ans;
+        return ans;
     }
 };
