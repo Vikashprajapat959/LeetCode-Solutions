@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
+| [0912-sort-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1470-shuffle-the-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
+| [0912-sort-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -491,4 +496,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
