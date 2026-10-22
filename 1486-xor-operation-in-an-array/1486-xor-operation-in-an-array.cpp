@@ -2,12 +2,13 @@
 class Solution {
 public:
     int xorOperation(int n, int start) {
-        int result = 0;
-        
-        for (int i = 0; i < n; i++) {
-            result ^= (start + 2 * i);
+        int ans = start;
+
+        for (int i = 1; i < n; i++) {
+            int num = start + 2 * i;
+            ans = ans ^ num;
         }
-        
-        return result;
+
+        return ans;
     }
 };
