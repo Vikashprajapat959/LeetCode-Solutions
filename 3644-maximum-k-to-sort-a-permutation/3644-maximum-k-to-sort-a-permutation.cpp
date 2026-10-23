@@ -3,16 +3,13 @@ class Solution {
 public:
     int sortPermutation(vector<int>& nums) {
         int n = nums.size();
-        int ans = -1;
-        bool sorted = true;
+        int k = -1; //1111111 (all bits set)
+        for(int i =0;i<n;i++){
+            if(nums[i]!=i){
+                k = (k&nums[i]);
 
-        for (int i = 0; i < n; i++) {
-            if (nums[i] != i) {
-                ans &= nums[i];
-                sorted = false;
             }
         }
-
-        return sorted ? 0 : ans;
+        return k==-1 ? 0 : k;
     }
 };
