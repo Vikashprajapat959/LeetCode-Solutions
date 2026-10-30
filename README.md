@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1655-distribute-repeating-integers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1655-distribute-repeating-integers) |
+| [1672-richest-customer-wealth](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
