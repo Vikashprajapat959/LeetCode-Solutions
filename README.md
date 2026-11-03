@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0526-beautiful-arrangement](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
