@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1254-number-of-closed-islands](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1550-three-consecutive-odds](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1655-distribute-repeating-integers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1655-distribute-repeating-integers) |
 | [1672-richest-customer-wealth](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
