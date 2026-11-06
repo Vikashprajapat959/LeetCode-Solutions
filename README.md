@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1655-distribute-repeating-integers) |
 | [1672-richest-customer-wealth](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
