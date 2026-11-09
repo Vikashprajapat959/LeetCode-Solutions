@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -565,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
