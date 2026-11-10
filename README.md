@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
@@ -575,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
