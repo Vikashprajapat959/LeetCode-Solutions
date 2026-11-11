@@ -22,7 +22,7 @@ return NULL;
            prev= curr;
            curr= forward ;
         }
-        head = prev;
+      
         return prev;
     }
 };
