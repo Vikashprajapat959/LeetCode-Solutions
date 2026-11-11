@@ -21,6 +21,7 @@ return NULL;
            curr->next = prev;
            prev= curr;
            curr= forward ;
+           head = prev;
         }
       
         return prev;
