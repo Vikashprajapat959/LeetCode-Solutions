@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
