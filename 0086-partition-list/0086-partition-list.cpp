@@ -11,29 +11,24 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-
-ListNode* fp = new ListNode(-1);
-ListNode* sp = new ListNode(-1);
-//step 1
-auto fptail = fp;
-auto sptail = sp;
-
-auto it = head;
-while(it){
-    if(it->val<x){
-        fptail->next = it;
-        fptail = fptail->next;
-        }
-    else{
-       sptail->next = it;
-       sptail = sptail->next;
-
-    }
-    it = it->next;
-}
-
-fptail->next = sp->next;
-sptail->next = NULL;
-return fp->next;
+        ListNode* fp = new ListNode(-1);
+           ListNode* sp = new ListNode(-1);
+           auto fptail = fp;
+           auto sptail = sp;
+           auto it = head;
+           while(it!= NULL){
+            if(it->val <x){
+              fptail->next = it;
+                fptail= fptail->next;
+            }
+            else{
+                 sptail->next = it;
+                sptail = sptail->next;
+            }
+            it= it->next;
+           }
+           fptail->next = sp->next;
+           sptail->next = NULL;
+           return fp->next;
     }
 };
