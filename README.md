@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1254-number-of-closed-islands](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0836-rectangle-overlap](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
