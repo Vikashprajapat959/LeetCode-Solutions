@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1655-distribute-repeating-integers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1655-distribute-repeating-integers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Floyd's Cycle Finding Algorithm
