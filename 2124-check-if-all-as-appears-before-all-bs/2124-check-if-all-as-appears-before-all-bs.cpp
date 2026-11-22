@@ -1,9 +1,9 @@
 class Solution {
 public:
     bool checkString(string s) {
-        int count_a = count(begin(s),end(s),'a');
-        for(int i = 0;i<count_a;i++){
-            if(s[i]!='a'){
+        int n = s.size();
+        for(int i = 0;i<n;i++){
+            if(s[i]=='b' && s[i+1] == 'a'){
                 return false;
             }
         }
