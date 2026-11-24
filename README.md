@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1254-number-of-closed-islands](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0836-rectangle-overlap](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Trie
 |  |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0676-implement-magic-dictionary](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -618,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vikashprajapat959/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
