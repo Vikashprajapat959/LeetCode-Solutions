@@ -10,44 +10,45 @@
  */
 class Solution {
 public:
-ListNode* midel(ListNode* head){
+ListNode* midle(ListNode* head){
     ListNode* slow = head;
-ListNode* fast = head->next;
-    while(fast->next != NULL && fast->next->next != NULL){
+    ListNode* faste = head;
+    while(faste->next!=NULL && faste->next->next!=NULL){
         slow = slow->next;
-        fast = fast->next->next;
+        faste = faste->next->next;
     }
     return slow;
 }
- ListNode* merge(ListNode* p1,ListNode* p2){
+ListNode* merge(ListNode* p1,ListNode* p2){
     if(p1==NULL or p2==NULL){
         return (p1==NULL)?p2:p1;
     }
-    ListNode* ans = new ListNode(0);
-    ListNode* curr = ans;
-    while(p1!=NULL && p2!=NULL){
+    ListNode*ans = new ListNode(0);
+     ListNode*curr = ans;
+     while(p1!=NULL && p2!=NULL){
         if(p1->val<p2->val){
-            curr->next = p1;
+             curr->next = p1;
             p1 = p1->next;
         }
         else{
               curr->next = p2;
-            p2 = p2->next;
+               p2=p2->next;
         }
         curr = curr->next;
-    }
-   curr->next = (p1 != NULL) ? p1 : p2;
+     }
+       curr->next = (p1 != NULL) ? p1 : p2;
 return ans->next;
+
 }
     ListNode* sortList(ListNode* head) {
-      if(head == NULL || head->next == NULL) {
-    return head;
-}
-        ListNode* mid = midel(head);
-        ListNode* newNode = mid->next;
+        if(head==NULL or head->next==NULL){
+            return head;
+        }
+        ListNode* mid = midle(head);
+        ListNode* aglalist = mid->next;
         mid->next = NULL;
-        ListNode* first_half = sortList(head);
-        ListNode* second_half = sortList(newNode);
-        return merge(first_half,second_half);
-    }
+          ListNode*firsthalf = sortList(head);
+            ListNode*secondhalf = sortList(aglalist);
+     return merge(firsthalf,secondhalf);
+}
 };
